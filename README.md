@@ -1,7 +1,7 @@
 # Hi, I'm Abhishek Keshri 👋
 
-🚀 Software Engineer | C# / .NET  
-🧠 Low Level Design & Machine Coding (SDE-2 focused)  
+🚀 Software Engineer - 2 @Deloitte | C# / .NET  
+🧠 Low Level Design & Machine Coding (MAANG SDE-2 focused)  
 🏗️ Building scalable, clean, interview-ready systems  
 
 ---
